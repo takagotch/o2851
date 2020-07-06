@@ -1,3 +1,6 @@
+https://takagotch.github.io/page207/
+
+
 #### ArchitectUI Bootstrap 4 jQuery/HTML Theme FREE
 #### Made with love by DashboardPack.com
 
